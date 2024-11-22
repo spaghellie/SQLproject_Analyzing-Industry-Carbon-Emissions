@@ -1,10 +1,10 @@
 # SQL Project: Analyzing Industry Carbon Emissions
 
-Note that I originally completed this project by DataCamp and included it in my portfolio there. I created the SQL query used to answer the original prompt by DataCamp: 
+*Please note that I originally completed this project by DataCamp and included it in my portfolio there. I created the SQL query used to answer the original prompt by DataCamp:*
 
-*"Product emissions make up more than 75% of global emissions. But which industries are the worst offenders?"*
+**_"Product emissions make up more than 75% of global emissions. But which industries are the worst offenders?"_**
 
-However, I intend to use the provided database while performing different, **independent** analyses on annual PCFs (product carbon footprints) reported to the environmental non-profit, CDP Worldwide.
+*However, I intend to use the provided database while performing different, **independent** analyses on annual PCFs (product carbon footprints) reported to the environmental non-profit, CDP Worldwide.*
 
 
 ## Introduction
