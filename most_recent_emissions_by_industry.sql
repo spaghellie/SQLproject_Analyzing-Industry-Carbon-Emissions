@@ -20,4 +20,4 @@ WHERE year IN
 GROUP BY industry_group, year
 
 -- Sort rows in descending order of total PCFs.
-ORDER BY total_industry_footprint DESC;
+ORDER BY total_industry_footprint DESC ;
