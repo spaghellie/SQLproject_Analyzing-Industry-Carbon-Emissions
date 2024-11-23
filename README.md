@@ -9,7 +9,7 @@
 
 ## Introduction
 
-It's no secret that carbon emissions have been the object of rising attention for private institutions *and* governmental agencies. Organizations around the globe have dedicated extensive time and energy into researching the quantifiable extent of various atmospheric pollutants. 
+It's no secret that carbon emissions have been the object of rising *(no pun intended-- as this is a rather serious matter)* attention. Private institutions & governmental agencies have caught on to the necessity for extensive research on causes, effects, & alternatives. These international organizations have dedicated valuable time and energy into quantifying the extent of atmospheric pollutants. 
 
 A Product Carbon Footprint (PCF) is the amount of greenhouse gas emitted throughout a particular commerial product's life cycle. The **_Carbon Catalog_** (Meinrenken et al., 2022) is a publicly available dataset that contains 866 PCF (measured in kg CO2) recordings reported between 2013 and 2017. These 866 PCFs come reported by 145 international companies which span across 5 different industry sectors.
 
